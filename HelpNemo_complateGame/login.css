@@ -1,0 +1,41 @@
+body {
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("sea2.png");
+    
+    }
+        #text{
+    
+            height: 25px;
+            border-radius: 5px;
+            padding: 4px;
+            border: solid thin #aaa;
+            width: 100%;
+        }
+        a{
+            text-decoration: none;
+          }
+        #button{
+    
+            padding: 10px;
+            width: 100px;
+            color: white;
+            background-color: lightblue;
+            border: none;
+        }
+        h2{
+          font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          text-shadow: 6px 6px 40px blue;
+          font-size: 0.8em;}
+    
+        #box{
+    
+    
+            background-color: rgba(146, 156, 177, 0.603);
+       border-radius: 10px  ;
+            margin: auto;
+            width: 300px;
+            padding: 20px;
+        }
+    

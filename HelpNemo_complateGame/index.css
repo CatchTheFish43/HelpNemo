@@ -1,0 +1,75 @@
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    margin-left: 9em;
+    text-shadow: 3px 3px 40px #0d1fe4;
+    font-size: 2.5em;
+
+  }
+a{
+  text-decoration: none;
+}
+  h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 5em;
+    text-shadow: 6px 6px 40px blue;
+    font-size: 1em;
+
+  }
+
+  h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 70em;
+    position: left;
+    text-shadow: 5px 5px 40px blue;
+    font-size: 1em;
+
+  }
+
+  /*
+  style the paly agin button 
+  https://www.w3schools.com/css/css3_buttons.asp */
+  
+  .button {
+    display:inline-block;
+    padding: 15px 25px;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #0d1fe4;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  
+    /* Center an button Exactly In The Center 
+    https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/*/
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+  }
+  .button:hover {background-color: #000b5b}
+
+  .button:active {
+    background-color: #0d1fe4;;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  #box{
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 70em;
+    position: left;
+    text-shadow: 5px 5px 40px blue;
+    font-size: 1em;
+/* background-color: rgba(202, 205, 211, 0.603);
+border-radius: 10px  ;
+margin: auto;
+width: 300px;
+padding: 20px; */
+}
