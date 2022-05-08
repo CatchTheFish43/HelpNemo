@@ -53,11 +53,9 @@ player enter his information. Also we built table to show the scores. as well as
 to the game. The game's connection to the databases was made using PHP, and SQL queries
 were made to update, insert, and select.
 
-![Screenshot](f5.PNG)
+![Screenshot](f6.PNG)
 
 5. Code document
-
-![Screenshot](f6.PNG)
 
 ![Screenshot](f7.PNG)
 
@@ -85,8 +83,13 @@ were made to update, insert, and select.
 References
 
 1- https://toppng.com/finding-nemo-characters-png-imagenes-de-nemo-gif-PNG-free-PNGImages_274967
+
 2- https://www.w3schools.com/css/css3_buttons.asp
+
 3- https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/
+
 4- https://codingstatus.com/display-data-in-html-table-using-php-mysql/
+
 5-https://www.youtube.com/watch?v=Yc1jG73dsTc&t=551s
+
 6-https://youtu.be/WYufSGgaCZ8
