@@ -11,7 +11,7 @@ his score appears automatically. After that, the player presses the save button,
 On the far right, there is a logout if he wants to exit the game, and there is also a hyperlink "Show High Score". 
 When the player clicked this hyperlink displays the highest scores of players in table shows in figure-4.
 
-![Screenshot] (f1+2.PNG)
+![Screenshot](f1+2.PNG)
 
 
  
