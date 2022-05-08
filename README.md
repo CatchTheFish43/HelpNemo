@@ -13,5 +13,8 @@ When the player clicked this hyperlink displays the highest scores of players in
 
 ![Screenshot](f1+2.PNG)
 ![Screenshot](f3.PNG)
+![Screenshot](f4.PNG)
 
- 
+@1.Flow Chart
+
+![Screenshot](f5.PNG)
