@@ -12,6 +12,6 @@ On the far right, there is a logout if he wants to exit the game, and there is a
 When the player clicked this hyperlink displays the highest scores of players in table shows in figure-4.
 
 ![Screenshot](f1+2.PNG)
-
+![Screenshot](f3.PNG)
 
  
